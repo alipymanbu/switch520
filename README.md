@@ -1,66 +1,24 @@
-# 🎮 Switch520全球白嫖网 - Switch游戏免费下载|PC/PS游戏资源站|官网入口
+# switch520
 
-## 🌐 平台简介
+本仓库是「switch520」的安卓版本获取入口，附使用资料索引。
 
-**Switch520**（全球白嫖网）是全球领先的单机游戏资源聚合平台。秉承着**开源、共享、极简**的互联网精神，该平台为广大游戏玩家提供了一个庞大的数字娱乐资源库。
+## 安装文件资源（夸克网盘）
 
-在这里，玩家可以轻松找到从热门 3A 大作到独立游戏精品的全方位资源。平台以“完全免费、无广告、无捆绑”的硬核态度，成为了国内乃至全球单机玩家心目中的“宝藏圣地”。
+> **switch520 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1f33a2c6b61a](https://pan.quark.cn/s/1f33a2c6b61a)
 
-#### Switch520全球白嫖网入口：https://switch520.ggonav.com/
+## 官方项目
 
-#### 网友汇总的游戏网站大全：https://appxiazai.pages.dev/
+- 上游项目：[yinghezhinan-web/switch520](https://github.com/yinghezhinan-web/switch520)
 
-#### 科学上网·在线看奈飞|玩GPT/Nano/Grok：https://ip.harmonylink.net/share/e82025
+## 更多资料
 
----
-
-## 🔥 核心特色：为什么玩家都在找 Switch520？
-
-### 1. 海量资源，一网打尽
-
-不仅涵盖了海量的 **Switch 游戏资源**，更延伸至 **PC 游戏、模拟器资源** 以及各类复古游戏。无论是掌机玩家还是电脑玩家，都能在此找到所需。
-
-### 2. 极致纯净的下载体验
-
-* **无干扰设计**：官网入口始终保持极简风格，拒绝任何诱导性弹窗或低俗广告。
-* **直连下载**：提供多种高速网盘链接，部分资源支持直连下载，告别繁琐的跳转。
-
-### 3. 同步全球更新速度
-
-紧跟全球游戏首发节奏。无论是新发售的商业巨制，还是最新的补丁（Update）与追加内容（DLC），平台都能实现毫秒级响应更新。
-
-### 4. 强大的汉化与分类
-
-平台特别注重**中文游戏**的收集，通过精细的分类标签（动作、RPG、策略、模拟等），让中文玩家能够无障碍地筛选并获取优质内容。
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/switch520/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [分卷压缩包解压教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/switch520/%E5%88%86%E5%8D%B7%E5%8E%8B%E7%BC%A9%E5%8C%85%E8%A7%A3%E5%8E%8B%E6%95%99%E7%A8%8B.md)
+- [常见问题与解决方法](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/switch520/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E4%B8%8E%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95.md)
+- [新手使用教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/switch520/%E6%96%B0%E6%89%8B%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md)
+- [游戏搜索与下载方法](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/switch520/%E6%B8%B8%E6%88%8F%E6%90%9C%E7%B4%A2%E4%B8%8E%E4%B8%8B%E8%BD%BD%E6%96%B9%E6%B3%95.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
 ---
 
-## 🔍 如何安全访问 Switch520 官网入口？
-
-由于网络环境的动态调整，建议通过以下方式保持连接：
-
-1. **收藏本 GitHub 仓库**：点击右上角 `Star` ⭐，我们会定期更新品牌资讯与访问逻辑。
-2. **搜索引擎关键词**：在浏览器搜索框中输入 `Switch520 官网`、`五个二最新入口` 或 `Switch520 精简站`。
-3. **识别官方特征**：正牌站点界面通常以“白底黑字”或“极简暗黑”风格为主，顶部的搜索框是其核心功能区。
-
-> **小贴士**：若遇到访问缓慢，建议使用现代浏览器（如 Edge、Chrome）并配合合规的网络优化技术。
-
----
-
-## 🛠 进阶玩机指南
-
-* **资源搜索技巧**：建议使用游戏的**中文官方译名**或**英文名**进行检索，匹配度最高。
-* **解压密码说明**：平台资源通常有统一的解压密码，一般在下载页面或文件备注中清晰可见。
-* **设备适配**：资源完美适配 Switch 破解主机、PC 模拟器（Yuzu/Ryujinx）以及主流的掌机设备。
-
----
-
-## 📜 免责声明
-
-1. 本仓库仅作为游戏文化交流与品牌资讯展示，不直接存储、不上传、不分发任何游戏安装包文件。
-2. 所有信息均整合自互联网公开分享渠道。
-3. 我们强烈倡导**尊重正版**。本指南仅供技术研究与试玩体验，如果您喜欢某款游戏，请务必前往 Steam、eShop、Epic 或 GOG 等官方平台购买正版，支持开发者。
-
----
-
-**如果您也热爱游戏文化，请点个 Star 关注本项目，第一时间获取全球游戏资讯！**
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/yinghezhinan-web/switch520)。
